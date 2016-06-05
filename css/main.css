@@ -379,7 +379,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 25px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -421,13 +421,13 @@ footer .theme-by {
   }	
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
-    padding: 150px 0;
+    padding: 30px 0; /* was 150px */
   }  
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 40px; /* was 80px */
   }
   .intro-header .post-heading h1 {
-    font-size: 50px;
+    font-size: 40px; /* was 50px */
   }
   .intro-header.big-img .img-desc {
     font-size: 14px;
