@@ -10,7 +10,7 @@ bigimg:
 
 ### About
 
-I am Associate Professor of History in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and [Associate Professor (Adjunct)](http://medicine.yale.edu/histmed/people/mariola_espinosa.profile) in the [Section of the History of Medicine at Yale University](http://medicine.yale.edu/histmed/).  I am a historian of medicine and public health in the Caribbean and Latin America. My current research looks at medical understandings of fever in the French, British, Spanish, and U.S. Caribbean empires.<a id="research"></a>
+I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and [Associate Professor Adjunct](http://medicine.yale.edu/histmed/people/mariola_espinosa.profile) in the [Section of the History of Medicine at Yale University](http://medicine.yale.edu/histmed/).  I am a historian of medicine and public health in the Caribbean and Latin America. My current research looks at medical understandings of fever in the French, British, Spanish, and U.S. Caribbean empires.<a id="research"></a>
 
 <br />
 
@@ -29,7 +29,7 @@ Recent publications:<br />
 
 ### Teaching
 
-I teach undergraduate and graduate courses on the history of disease, public health, and empire; the history of medicine and public health in Latin America; disease in the Caribbean; global history of Latin American science and medicine; and readings on disease in the Caribbean. For detailed course descriptions see [ISIS](http://isis.uiowa.edu/).  Current students can access the course website on [ICON](http://icon.uiowa.edu/).
+I teach undergraduate and graduate courses on the history of Cuba; disease, public health, and empire; the history of medicine and public health in Latin America; disease in the Caribbean; global history of Latin American science and medicine; and readings on disease in the Caribbean. Information about courses can be found in [MyUI](https://myui.uiowa.edu/my-ui/courses/dashboard.page).  Current students can access the course website on [ICON](http://icon.uiowa.edu/).
 
 
 
