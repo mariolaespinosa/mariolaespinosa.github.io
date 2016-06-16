@@ -12,7 +12,6 @@ bigimg:
 
 I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and [Associate Professor Adjunct](http://medicine.yale.edu/histmed/people/mariola_espinosa.profile) in the [Section of the History of Medicine at Yale University](http://medicine.yale.edu/histmed/).  I am a historian of medicine and public health in the Caribbean and Latin America. My current research looks at medical understandings of fever in the French, British, Spanish, and U.S. Caribbean empires.<a id="research"></a>
 
-<br />
 
 ### Research
 Recent publications:<br />
