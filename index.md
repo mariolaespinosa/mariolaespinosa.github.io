@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mariola Espinosa"
-subtitle: "History of Disease, Medicine, and Public Health in Latin America, the Caribbean, and the Atlantic World"
+subtitle: "History of Disease, Medicine, and Public Health"
 bigimg:
   - "img/big-imgs/havana-harbor.png" : "Havana Harbor, Cuba, c. 1900"
   - "img/big-imgs/c&c-detail.png" : "Contagion and Conquest"
