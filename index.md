@@ -10,7 +10,7 @@ bigimg:
 
 ### About
 
-I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and Director of the [Global Health Studies Program](https://clas.uiowa.edu/global-health-studies/). I am also affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). I specialize on the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean.<a id="research"></a>
+I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and Director of the [Global Health Studies Program](https://clas.uiowa.edu/global-health-studies/). I am also affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). I specialize in the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean.<a id="research"></a>
 
 
 ### Research
