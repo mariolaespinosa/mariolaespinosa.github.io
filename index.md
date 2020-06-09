@@ -13,8 +13,17 @@ bigimg:
 I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and Director of the [Global Health Studies Program](https://clas.uiowa.edu/global-health-studies/). I am also affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). I specialize in the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean.<a id="research"></a>
 
 
-### Research
-Recent publications:<br />
+
+
+### Recent presentations<br />
+
+[![Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health](img/Pandemic.png){ width="560px" }](https://www.histmed.org/epidemic-history "Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fKO8RcpOgDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+### Recent publications<br />
 
 ["New Directions in the History of Cuban Medicine and Public Health: Introduction to the Dossier," _Cuban Studies_, 45 (February 2017): 275-279](papers/EspinosaCS2017). Electronic copy [available here](https://doi.org/10.1353/cub.2017.0015).<br /><br />
 
