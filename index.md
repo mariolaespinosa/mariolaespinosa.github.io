@@ -17,7 +17,7 @@ I am Associate Professor in the [Department of History at the University of Iowa
 
 ### Recent presentations<br />
 
-[![Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health](img/Pandemic.png){ height="315px" width="560px" }](https://www.histmed.org/epidemic-history "Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health")
+[![Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health](img/Pandemic.png)](https://www.histmed.org/epidemic-history "Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health")
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fKO8RcpOgDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
