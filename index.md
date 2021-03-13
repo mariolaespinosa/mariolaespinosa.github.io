@@ -10,7 +10,7 @@ bigimg:
 
 ### About
 
-I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). I specialize in the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean. I am also a member of the [Chacra Collective](https://chacracollective.wordpress.com) for the history and culture of the region of the Americas.<a id="research"></a>
+I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). My specialization is in the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean. From 2017 to 2020 I served as the Director of the Global Health Studies Program. During that time, I was charged with leading a new undergraduate major which in those three years became incredibly popular as an intellectual and professional home among under-represented students at the University of Iowa. In that position I advocated for recruitment of interdisciplinary faculty alongside other departments in the College of Liberal Arts.<a id="research"></a>
 
 
 
@@ -41,7 +41,7 @@ I am Associate Professor in the [Department of History at the University of Iowa
 
 ### Teaching
 
-I teach undergraduate and graduate courses on the history of Cuba; disease, public health, and empire; the history of medicine and public health in Latin America; disease in the Caribbean; global history of Latin American science and medicine; and global history of science, race, and medicine. Information about courses can be found in [MyUI](https://myui.uiowa.edu/my-ui/courses/dashboard.page).  Current students can access the course website on [ICON](http://icon.uiowa.edu/).
+I teach undergraduate and graduate courses on the history of Cuba; disease, public health, and empire; the history of medicine and public health in Latin America; disease in the Caribbean; global history of Latin American science and medicine; and global history of science, race, and medicine. Information about courses can be found in [MyUI](https://myui.uiowa.edu/my-ui/courses/dashboard.page).  Current students can access the course website on [ICON](http://icon.uiowa.edu/). Pushed by the sudden changes in pedagogy forced by the COVID-19 pandemic in the Spring of 2020 I joined fellow Latin Americanist colleagues nationwide in the [Chacra Collective](https://chacracollective.wordpress.com) for the history and culture of the region of the Americas. We share our expertise with each other and provide each other collaborative pedagogical support.
 
 
 
