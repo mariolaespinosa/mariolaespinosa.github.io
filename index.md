@@ -27,11 +27,13 @@ I am Associate Professor in the [Department of History at the University of Iowa
 
 ### Recent publications<br />
 
-["New Directions in the History of Cuban Medicine and Public Health: Introduction to the Dossier," _Cuban Studies_, 45 (February 2017): 275-279](papers/EspinosaCS2017). Electronic copy [available here](https://doi.org/10.1353/cub.2017.0015).<br /><br />
+["Revisiting 'What Is an Epidemic?' in the Time of COVID-19: Lessons from the History of Latin American Public Health," _Bulletin of the History of Medicine_, 94:4 (Winter 2020): 627-636.](https://muse.jhu.edu/article/786007)<br />
 
-["The Question of Racial Immunity to Yellow Fever in History and Historiography," _Social Science History_, 38:4 (Fall/Winter 2014): 437-453](papers/EspinosaSSH2014).  (Published online June 17, 2015.) Electronic copy of the journal [available here](http://dx.doi.org/10.1017/ssh.2015.20).<br /><br />
+["New Directions in the History of Cuban Medicine and Public Health: Introduction to the Dossier," _Cuban Studies_, 45 (February 2017): 275-279](papers/EspinosaCS2017). Electronic copy [available here](https://doi.org/10.1353/cub.2017.0015).<br />
+
+["The Question of Racial Immunity to Yellow Fever in History and Historiography," _Social Science History_, 38:4 (Fall/Winter 2014): 437-453](papers/EspinosaSSH2014).  (Published online June 17, 2015.) Electronic copy of the journal [available here](http://dx.doi.org/10.1017/ssh.2015.20).<br />
                 
-[“Los orígenes caribeños del Sistema Nacional de Salud Pública en los Estados Unidos. Una aproximación global a la historia de la medicina y de la salud pública en Latinoamérica [The Caribbean origins of the National Public Health System in the USA: a global approach to the history of medicine and public health in Latin America]”, _História, ciências, saúde-Manguinhos_ 22:1 (jan./mar. 2015): 241-53](papers/EspinosaManguinhos2015). PubMed PMID: 25742109.<br /><br />
+[“Los orígenes caribeños del Sistema Nacional de Salud Pública en los Estados Unidos. Una aproximación global a la historia de la medicina y de la salud pública en Latinoamérica [The Caribbean origins of the National Public Health System in the USA: a global approach to the history of medicine and public health in Latin America]”, _História, ciências, saúde-Manguinhos_ 22:1 (jan./mar. 2015): 241-53](papers/EspinosaManguinhos2015). PubMed PMID: 25742109.<br />
 
 [“Globalizing the History of Disease, Medicine, and Public Health in Latin America,” _Isis_, 104:4 (December 2013); 798-806.](http://www.jstor.org/stable/10.1086/674946) PubMed PMID 24783496.
 
