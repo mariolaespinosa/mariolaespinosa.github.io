@@ -1,10 +1,10 @@
 ---
-layout: page
 title: "Mariola Espinosa"
-subtitle: "History of Disease, Medicine, and Public Health"
+layout: page
+subtitle: History of Disease, Medicine, and Public Health
 bigimg:
-  - "img/big-imgs/havana-harbor.png" : "Havana Harbor, Cuba, c. 1900"
-  - "img/big-imgs/c&c-detail.png" : "Contagion and Conquest"
+- img/big-imgs/havana-harbor.png: Havana Harbor, Cuba, c. 1900
+- img/big-imgs/c&c-detail.png: Contagion and Conquest
 ---
 
 
@@ -15,7 +15,7 @@ I am Associate Professor in the [Department of History at the University of Iowa
 
 
 
-### Recent presentations<br />
+### Presentations on Pandemics<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3kiG1IqpdkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,7 +25,12 @@ I am Associate Professor in the [Department of History at the University of Iowa
 
 
 
-### Recent publications<br />
+### Recent Publications<br />
+
+[Mariola Espinosa, Reinaldo Funes Monzote, Mónica García, Ana Carolina Vimieiros Gomes, Vivek Neelakantan, Oluwatoyin Oduntan, Okezi T. Otovo, Patricia Palma, and Rodrigo Turin, "History, Historians and the COVID-19 Pandemic", debate edited by Anne-Emanuelle Birn and Gilberto Hochman, _Topoi-Revista de História_ 22:48 (Sept.-Dec.  2021), 622-654.
+](https://www.scielo.br/j/topoi/a/G4rxgkq9wzTkMCm6s9KnmrN/)<br />
+
+[“Fièvre jaune et différentiels d’immunité et de mortalité,” in _Épidémies et rapports sociaux_. Toulouse: Éditions de l’Asymétrie, 2021.](https://www.hobo-diffusion.com/catalogue/2352/epidemies-et-rapports-sociaux-la-cause-est-l-effet)<br />
 
 ["Revisiting 'What Is an Epidemic?' in the Time of COVID-19: Lessons from the History of Latin American Public Health," _Bulletin of the History of Medicine_, 94:4 (Winter 2020): 627-636.](https://muse.jhu.edu/article/786007)<br />
 
