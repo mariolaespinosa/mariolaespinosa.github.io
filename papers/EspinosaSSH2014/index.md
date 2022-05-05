@@ -1,6 +1,4 @@
 ---
-layout: redirect
-title: EspinosaSSH2014
-loc: ../EspinosaSSH2014.pdf
-output: html_document
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=../EspinosaSSH2014.pdf">
 ---

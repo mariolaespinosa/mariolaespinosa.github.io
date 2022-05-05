@@ -1,6 +1,4 @@
 ---
-layout: redirect
-title: EspinosaManguinhos2015
-loc: ../EspinosaManguinhos2015.pdf
-output: html_document
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=../EspinosaManguinhos2015.pdf">
 ---

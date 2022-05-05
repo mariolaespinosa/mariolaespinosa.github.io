@@ -1,6 +1,4 @@
 ---
-layout: redirect
-title: Espinosa CV
-loc: EspinosaCV.pdf
-output: html_document
+header-includes: |
+  <meta http-equiv="Refresh" content="0; URL=EspinosaCV.pdf">
 ---

@@ -1,0 +1,56 @@
+---
+page-layout: article
+---
+::: {.column-screen .hero-image}
+::: {.hero-text}
+Mariola Espinosa
+
+::: {.hero-subtitle}
+History of Disease, Medicine, and Public Health
+:::
+
+:::
+:::
+
+## About
+
+I am Associate Professor in the [Department of History at the University of Iowa](http://clas.uiowa.edu/history/) and affiliated faculty in the in the [Program in Bioethics and Humanities at the Carver College of Medicine](https://medicine.uiowa.edu/bioethics/mission-statement). My specialization is in the history of medicine and public health in the Caribbean and Latin America, as well as in histories of empire and disease, race and medicine, and transnational medical practices. I am currently working on a book project on yellow fever knowledge beyond the boundaries of empire in the Caribbean. From 2017 to 2020 I served as the Director of the [Global Health Studies Program](https://clas.uiowa.edu/global-health-studies/). During that time, I led a new undergraduate major which, in those three years, became incredibly popular as an intellectual and professional home among under-represented students at the University of Iowa. In that position I advocated for recruitment of interdisciplinary faculty alongside other departments in the College of Liberal Arts.<a id="research"></a>
+
+## Presentations on Pandemics 
+<div class="grid">
+<div class="g-col-12 g-col-md-2"></div>
+<div class="g-col-12 g-col-md-8">
+
+<iframe width="560px" height="315px" src="https://www.youtube.com/embed/3kiG1IqpdkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+
+[![Pandemic, Creating A Usable Past: Epidemic History, COVID-19, and the Future of Health](img/Pandemic.png)](https://www.histmed.org/epidemic-history)
+
+<iframe width="560px" height="315px" src="https://www.youtube.com/embed/fKO8RcpOgDo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+<div class="g-col-12 g-col-md-2"></div>
+</div>
+
+## Recent Publications
+
+[Mariola Espinosa, Reinaldo Funes Monzote, Mónica García, Ana Carolina Vimieiros Gomes, Vivek Neelakantan, Oluwatoyin Oduntan, Okezi T. Otovo, Patricia Palma, and Rodrigo Turin, "History, Historians and the COVID-19 Pandemic", debate edited by Anne-Emanuelle Birn and Gilberto Hochman, *Topoi-Revista de História* 22:48 (Sept.-Dec. 2021), 622-654.](https://www.scielo.br/j/topoi/a/G4rxgkq9wzTkMCm6s9KnmrN/)<br />
+
+["Fièvre jaune et différentiels d'immunité et de mortalité," in *Épidémies et rapports sociaux*. Toulouse: Éditions de l'Asymétrie, 2021.](https://www.hobo-diffusion.com/catalogue/2352/epidemies-et-rapports-sociaux-la-cause-est-l-effet)<br />
+
+["Revisiting 'What Is an Epidemic?' in the Time of COVID-19: Lessons from the History of Latin American Public Health," *Bulletin of the History of Medicine*, 94:4 (Winter 2020): 627-636.](https://muse.jhu.edu/article/786007)<br />
+
+["New Directions in the History of Cuban Medicine and Public Health: Introduction to the Dossier," *Cuban Studies*, 45 (February 2017): 275-279](papers/EspinosaCS2017). Electronic copy [available here](https://doi.org/10.1353/cub.2017.0015).<br />
+
+["The Question of Racial Immunity to Yellow Fever in History and Historiography," *Social Science History*, 38:4 (Fall/Winter 2014): 437-453](papers/EspinosaSSH2014). (Published online June 17, 2015.) Electronic copy of the journal [available here](http://dx.doi.org/10.1017/ssh.2015.20).<br />
+
+["Los orígenes caribeños del Sistema Nacional de Salud Pública en los Estados Unidos. Una aproximación global a la historia de la medicina y de la salud pública en Latinoamérica \[The Caribbean origins of the National Public Health System in the USA: a global approach to the history of medicine and public health in Latin America\]", *História, ciências, saúde-Manguinhos* 22:1 (jan./mar. 2015): 241-53](papers/EspinosaManguinhos2015). PubMed PMID: 25742109.<br />
+
+["Globalizing the History of Disease, Medicine, and Public Health in Latin America," *Isis*, 104:4 (December 2013); 798-806.](http://www.jstor.org/stable/10.1086/674946) PubMed PMID 24783496.
+
+{{< include templates/three-posters.html >}}
+
+
+## Teaching
+
+I teach undergraduate and graduate courses on the history of Cuba; disease, public health, and empire; the history of medicine and public health in Latin America; disease in the Caribbean; global history of Latin American science and medicine; and global history of science, race, and medicine. Information about courses can be found in [MyUI](https://myui.uiowa.edu/my-ui/courses/dashboard.page). Current students can access the course website on [ICON](http://icon.uiowa.edu/). Pushed by the sudden changes in pedagogy forced by the COVID-19 pandemic in the Spring of 2020 I joined fellow Latin Americanist colleagues nationwide in the [Chacra Collective](https://chacracollective.wordpress.com) for the history and culture of the region of the Americas. We share our expertise and provide each other collaborative pedagogical support.

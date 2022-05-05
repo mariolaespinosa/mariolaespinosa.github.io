@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs  
+  preview:
+    port: 3250
+  resources: 
+    - "*.pdf"
+
+website:
+  title: "Mariola Espinosa"
+  image: "me.png"
+  favicon: "favicon.png"
+  open-graph: true
+  twitter-card:
+    site: "@mariolaespinosa"
+  site-url: https://mariolaespinosa.org
+  description: "History of Disease, Medicine, and Public Health"
+  smooth-scroll: true
+  navbar:
+    background: "#FF8F00"
+    logo: me.png
+    title: "Mariola Espinosa"
+    left:
+      - text: "Research"
+        file: "#recent-publications"
+      - text: "Teaching"
+        file: "#teaching"
+      - text: "CV"
+        file: "/cv/"
+    right:
+      - icon: envelope
+        href: mailto:mariolaespinosa@uiowa.edu
+      - icon: twitter
+        href: https://twitter.com/mariolaespinosa
+
+format:
+  html:
+    theme: cosmo
+    css: templates/styles.css
+
+editor: source
+
