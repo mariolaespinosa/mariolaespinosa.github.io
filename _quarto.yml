@@ -5,6 +5,7 @@ project:
     port: 3250
   resources: 
     - "*.pdf"
+    - "*.jpg"
 
 website:
   title: "Mariola Espinosa"
