@@ -1,16 +1,7 @@
-# project
-_site
-.sass-cache
-.vagrant
-
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
 .Rproj.user
 .Rhistory
-
-# just to make sure
-index.html
+.RData
+.Ruserdata
+.DS_Store
 
 /.quarto/
