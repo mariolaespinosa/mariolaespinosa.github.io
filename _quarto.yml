@@ -16,7 +16,6 @@ website:
     site: "@mariolaespinosa"
   site-url: https://mariolaespinosa.org
   description: "History of Disease, Medicine, and Public Health"
-  smooth-scroll: true
   navbar:
     background: "#FF8F00"
     logo: me.png
@@ -38,6 +37,7 @@ format:
   html:
     theme: cosmo
     css: templates/styles.css
+    smooth-scroll: true
 
 editor: source
 
