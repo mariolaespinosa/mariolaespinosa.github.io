@@ -30,8 +30,6 @@ website:
     right:
       - icon: envelope
         href: mailto:mariolaespinosa@uiowa.edu
-      - icon: twitter
-        href: https://twitter.com/mariolaespinosa
 
 format:
   html:
